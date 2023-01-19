@@ -2,7 +2,7 @@
 
 Thanks for visiting. I'm a developer currently based in Chicago. Have a look around andd let me know if you want to [connect] (mialto:shouwangh82@gmail.com).
 
-[![Website Badge](https://img.shields.io/badge/-Shouwang's_website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://shouwangh.github.io/portfolio-website/)](https://shouwangh.github.io/portfolio-website/)
+[![Website Badge](https://img.shields.io/badge/-My_website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://shouwangh.github.io/portfolio-website/)](https://shouwangh.github.io/portfolio-website/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-ShouwangHuang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shouwang-huang-71155ab7/)](https://www.linkedin.com/in/shouwang-huang-71155ab7/)
 
