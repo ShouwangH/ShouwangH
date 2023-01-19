@@ -1,32 +1,35 @@
-<code><img src="images/gits-typing.gif" width="100"></code>
+<h1 align="center">Ahoy hoy👋</h1>
 
-# Hello!👋
+Welcome to the mind palace of **Shouwang Huang**. 
 
-
-Welcome to the mind palace of **Shouwang Huang**. I'm just a guy trying to 1) build some cool apps here while maybe learning a thing or two and 2) find a comfortable desk chair that isn't $2,000 and won't destroy my back as I'm in hour 14 of coding.
+I'm just a guy trying to 
+1) Build some cool apps here while maybe learning a thing or two and 
+2) Find a comfortable desk chair that isn't $2k and won't destroy my back as I'm in hour 14 of coding.
 
 Check out a few projects and get in touch with me below.
+</br>
 
-[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://shouwangh.github.io/portfolio-website/)](https://shouwangh.github.io/portfolio-website/)
+[![website](https://img.shields.io/badge/My%20Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://shouwangh.github.io/portfolio-website/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouwang-huang-71155ab7/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shouwangh82@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shouwang-huang-71155ab7/)](https://www.linkedin.com/in/shouwang-huang-71155ab7/)
-
-[![Gmail Badge](https://img.shields.io/badge/-Email_me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shouwangh82@gmail.com)](mailto:shouwangh82@gmail.com)
-
+<code><img src="images/gits-typing.gif" width=90% align="center"></code>
 
 ---
-
 Languages and tools: 
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-<code><img height="20" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></code>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ---
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={ShouwangH}&theme=blue-green
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/shouwangh/github-readme-stats)
 
     
