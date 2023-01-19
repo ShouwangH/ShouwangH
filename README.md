@@ -1,6 +1,7 @@
+<code><img src="images/gits-typing.gif" width="100"></code>
+
 # Hello!👋
 
-[![Typing Gif]<code><img src="images/gits-typing.gif"></code>)]
 
 Welcome to the mind palace of **Shouwang Huang**. I'm just a guy trying to 1) build some cool apps here while maybe learning a thing or two and 2) find a comfortable desk chair that isn't $2,000 and won't destroy my back as I'm in hour 14 of coding.
 
