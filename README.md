@@ -26,7 +26,6 @@ Languages and tools:
 
 ---
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={ShouwangH}&theme=blue-green
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/shouwangh/github-readme-stats)
 
     
