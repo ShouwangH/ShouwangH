@@ -13,7 +13,7 @@ Check out a few projects and get in touch with me below.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouwang-huang-71155ab7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shouwangh82@gmail.com)
 
-<code><img src="images/gits-typing.gif" width=90% align="center"></code>
+<code><img src="images/itc-typing.gif" width=90% align="center"></code>
 
 ---
 Languages and tools: 
