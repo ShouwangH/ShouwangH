@@ -4,7 +4,7 @@ Welcome to the mind palace of **Shouwang Huang**.
 
 I'm just a guy trying to 
 1) Build some cool apps here while maybe learning a thing or two and 
-2) Find a comfortable desk chair that isn't $2k and won't destroy my back as I'm in hour 14 of coding.
+2) Find a comfortable desk chair that isn't $2k and won't destroy my back when I lock in.
 
 Check out a few projects and get in touch with me below.
 </br>
