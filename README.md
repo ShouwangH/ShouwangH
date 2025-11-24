@@ -9,7 +9,6 @@ I'm just a guy trying to:
 Check out a few projects and get in touch with me below.
 
 </br>
-<a href="https://shouwangh.github.io/portfolio-website/"><img src="https://img.shields.io/badge/My%20Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/shouwang-huang-71155ab7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:shouwangh82@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <img src="images/itc-typing.gif" width=90% align="center">
